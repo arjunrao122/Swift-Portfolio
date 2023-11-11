@@ -37,4 +37,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arjun Rao - rao.arjun122@gmail.com
 
-Project Link: [https://github.com/arjunrao122/TreasureFinder](https://github.com/arjunrao122/TreasureFinder)
+Project Link: [https://github.com/arjunrao122/TreasureFinder]

@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arjun Rao - rao.arjun122@gmail.com
 
-Project Link: [https://github.com/arjunrao122/HealthKitHeartRateStream](https://github.com/arjunrao122/HealthKitHeartRateStream)
+Project Link: [https://github.com/arjunrao122/HealthKitHeartRateStream]
 
 ## Acknowledgements
 
