@@ -13,7 +13,8 @@ An elegant SwiftUI app that showcases local restaurants with details and maps, c
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/RestaurantGuide.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/RestaurantGuide
     ```
 2. Open the `.xcodeproj` file in Xcode.
 

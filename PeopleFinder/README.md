@@ -13,7 +13,8 @@ People Finder SwiftUI is an iOS app built with SwiftUI that helps users locate p
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/PeopleFinder.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/PeopleFinder
     ```
 2. Open the `.xcodeproj` file in Xcode.
 

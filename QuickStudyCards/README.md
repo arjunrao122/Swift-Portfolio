@@ -20,7 +20,8 @@ QuickStudyCards is a SwiftUI-based flashcard app designed to help users learn an
 
 1. Clone the repo:
 ```sh
-git clone https://github.com/your-username/QuickStudyCards.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/QuickStudyCards
 ```
 2. Open the `.xcodeproj` file in Xcode.
 

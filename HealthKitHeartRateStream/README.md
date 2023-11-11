@@ -23,7 +23,8 @@ This repository contains a SwiftUI-based project that demonstrates the integrati
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/HealthKitHeartRateStream.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/HealthKitHeartRateStream
     ```
 2. Open the `.xcodeproj` file in Xcode.
 3. Select your Development Team in project settings before building the application, under 'Signing & Capabilities'.

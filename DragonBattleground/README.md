@@ -15,7 +15,8 @@ Welcome to DragonBattleground, a simple yet captivating dragon battle game built
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/DragonBattleground.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/DragonBattleground
     ```
 2. Open the `.xcodeproj` file in Xcode.
 

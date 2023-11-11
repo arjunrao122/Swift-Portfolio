@@ -15,7 +15,8 @@ XO-Bet-Game is a simple, yet engaging iOS game built with SwiftUI. It combines e
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/XO-Bet-Game.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/XO-Bet-Game
     ```
 2. Open the `.xcodeproj` file in Xcode.
 

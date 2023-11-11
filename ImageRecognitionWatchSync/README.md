@@ -19,7 +19,8 @@ This app, built with SwiftUI, offers functionalities for object identification a
 ### Setup
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/ImageRecognitionWatchSync.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/ImageRecognitionWatchSync
     ```
 2. Open the `.xcodeproj` file in Xcode.
 3. Ensure that you have the necessary provisioning profiles for running on a physical device if needed.

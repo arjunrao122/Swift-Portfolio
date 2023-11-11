@@ -15,7 +15,8 @@ An interactive iOS app built with SwiftUI, `TreasureFinder` allows users to expl
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/TreasureFinder.git
+    git clone https://github.com/arjunrao122/Swift-Portfolio.git
+    cd Swift-Portfolio/TreasureFinder
     ```
 2. Open the `.xcodeproj` file in Xcode.
 
