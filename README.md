@@ -61,6 +61,10 @@ To get started with these projects:
 2. Open the project of interest in Xcode.
 3. Read the specific `README.md` in the project directory to understand the project scope and how to run it.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contributing
 
 Feel free to fork the repository, explore the projects, and contribute back by submitting pull requests. I'm open to collaborations or any kind of feedback on the work presented here.
