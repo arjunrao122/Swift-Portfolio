@@ -9,8 +9,6 @@ This app, built with SwiftUI, offers functionalities for object identification a
 - Watch Connectivity: Sends emoji representations of recognized objects to a connected Apple Watch.
 - Image Selection: Users can either take a new photo or choose one from the photo library.
 
-## Installation
-
 ### Prerequisites
 - Xcode 12 or later
 - iOS 14 or later
