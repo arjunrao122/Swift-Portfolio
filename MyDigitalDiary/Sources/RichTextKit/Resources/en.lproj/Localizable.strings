@@ -1,0 +1,61 @@
+/*
+ Localizable.strings
+ RichTextKit
+
+ Created by Daniel Saidi on 2022-12-14.
+ Copyright © 2022 Daniel Saidi. All rights reserved.
+ */
+
+"locale" = "en";
+
+"done" = "Done";
+
+"font" = "Font";
+"fontSize" = "Font Size";
+
+"color" = "Color";
+"foregroundColor" = "Text Color";
+"backgroundColor" = "Background";
+
+"actionCopy" = "Copy";
+"actionDismissKeyboard" = "Dismiss Keyboard";
+"actionFontSizeIncrease" = "Larger Text";
+"actionFontSizeDecrease" = "Smaller Text";
+"actionIndentIncrease" = "Increase Indent";
+"actionIndentDecrease" = "Decrease Indent";
+"actionRedoLatestChange" = "Redo";
+"actionUndoLatestChange" = "Undo";
+
+"fileFormatRtk" = "Rich Text Kit (.rtk)";
+"fileFormatPdf" = "PDF (.pdf)";
+"fileFormatRtf" = "Rich Text (.rtf)";
+"fileFormatTxt" = "Plain Text (.txt)";
+
+"menuExport" = "Export";
+"menuExportAs" = "Export as...";
+"menuFont" = "Font";
+"menuFontSizeIncrease" = "Larger";
+"menuFontSizeDecrease" = "Smaller";
+"menuFormat" = "Format";
+"menuIndent" = "Indent";
+"menuIndentIncrease" = "Increase";
+"menuIndentDecrease" = "Decrease";
+"menuPrint" = "Print...";
+"menuSave" = "Save";
+"menuSaveAs" = "Save as...";
+"menuShare" = "Share";
+"menuShareAs" = "Share as...";
+"menuSuperscriptIncrease" = "Superscript";
+"menuSuperscriptDecrease" = "Subscript";
+"menuText" = "Text";
+
+"styleBold" = "Bold";
+"styleItalic" = "Italic";
+"styleStrikethrough" = "Strikethrough";
+"styleUnderlined" = "Underline";
+
+"textAlignment" = "Text Alignment";
+"textAlignmentLeft" = "Left";
+"textAlignmentRight" = "Right";
+"textAlignmentCentered" = "Centered";
+"textAlignmentJustified" = "Justified";

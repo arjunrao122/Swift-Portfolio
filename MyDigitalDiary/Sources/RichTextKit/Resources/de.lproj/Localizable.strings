@@ -1,0 +1,61 @@
+/*
+ Localizable.strings
+ RichTextKit
+ 
+ Created by Daniel Saidi on 2022-12-14.
+ Copyright © 2022 Daniel Saidi. All rights reserved.
+ */
+
+"locale" = "de";
+
+"done" = "Fertig";
+
+"font" = "Schriftart";
+"fontSize" = "Schriftgröße";
+
+"color" = "Farbe";
+"foregroundColor" = "Text";
+"backgroundColor" = "Hintergrund";
+
+"actionCopy" = "Kopieren";
+"actionDismissKeyboard" = "Tastatur schließen";
+"actionFontSizeIncrease" = "Schriftgröße vergrößern";
+"actionFontSizeDecrease" = "Schriftgröße verkleinern";
+"actionIndentIncrease" = "Indent vergrößern";
+"actionIndentDecrease" = "Indent verkleinern";
+"actionRedoLatestChange" = "Rückgängig";
+"actionUndoLatestChange" = "Wiederholen";
+
+"fileFormatRtk" = "Rich Text Kit (.rtk)";
+"fileFormatPdf" = "PDF (.pdf)";
+"fileFormatRtf" = "Formatierter Text (.rtf)";
+"fileFormatTxt" = "Klartext (.txt)";
+
+"menuExport" = "Exportieren";
+"menuExportAs" = "Exportieren als...";
+"menuFont" = "Schriftart";
+"menuFontSizeIncrease" = "Größer";
+"menuFontSizeDecrease" = "Kleiner";
+"menuFormat" = "Format";
+"menuIndent" = "Indent";
+"menuIndentIncrease" = "Vergrößern";
+"menuIndentDecrease" = "Verkleinern";
+"menuPrint" = "Drucken...";
+"menuSave" = "Speichern";
+"menuSaveAs" = "Speichern als...";
+"menuShare" = "Teilen";
+"menuShareAs" = "Teilen als...";
+"menuSuperscriptIncrease" = "Superscript";
+"menuSuperscriptDecrease" = "Subscript";
+"menuText" = "Text";
+
+"styleBold" = "Fetter";
+"styleItalic" = "Kursiv";
+"styleStrikethrough" = "Durchgestrichen";
+"styleUnderlined" = "Unterstrichen";
+
+"textAlignment" = "Tekstjustering";
+"textAlignmentLeft" = "Linke Textausrichtung";
+"textAlignmentRight" = "Rechte Textausrichtung";
+"textAlignmentCentered" = "Textausrichtung zentrieren";
+"textAlignmentJustified" = "Blocksatz-Textausrichtung";

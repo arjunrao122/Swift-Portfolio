@@ -1,0 +1,61 @@
+/*
+ Localizable.strings
+ RichTextKit
+ 
+ Created by Daniel Saidi on 2022-12-14.
+ Copyright © 2022 Daniel Saidi. All rights reserved.
+ */
+
+"locale" = "nb";
+
+"done" = "Færdig";
+
+"font" = "Skrifttype";
+"fontSize" = "Skriftstørrelse";
+
+"color" = "Farge";
+"foregroundColor" = "Tekst";
+"backgroundColor" = "Bakgrunn";
+
+"actionCopy" = "Kopiere";
+"actionDismissKeyboard" = "Lukk tastaturet";
+"actionFontSizeIncrease" = "Øk skriftstørrelsen";
+"actionFontSizeDecrease" = "Reduser skriftstørrelsen";
+"actionIndentIncrease" = "Øk indrag";
+"actionIndentDecrease" = "Reduser indrag";
+"actionRedoLatestChange" = "Angre";
+"actionUndoLatestChange" = "Gjøre om";
+
+"fileFormatRtk" = "Rich Text Kit (.rtk)";
+"fileFormatPdf" = "PDF (.pdf)";
+"fileFormatRtf" = "Formatert tekst (.rtf)";
+"fileFormatTxt" = "Ren tekst (.txt)";
+
+"menuExport" = "Eksporterer";
+"menuExportAs" = "Eksporterer som...";
+"menuFont" = "Skrifttype";
+"menuFontSizeIncrease" = "Større";
+"menuFontSizeDecrease" = "Mindre";
+"menuFormat" = "Format";
+"menuIndent" = "Indrag";
+"menuIndentIncrease" = "Øk";
+"menuIndentDecrease" = "Reduser";
+"menuPrint" = "Skrive ut...";
+"menuSave" = "Lagre";
+"menuSaveAs" = "Lagre som...";
+"menuShare" = "Del";
+"menuShareAs" = "Del som...";
+"menuSuperscriptIncrease" = "Superscript";
+"menuSuperscriptDecrease" = "Subscript";
+"menuText" = "Tekst";
+
+"styleBold" = "Fet";
+"styleItalic" = "Kursiv";
+"styleStrikethrough" = "Gjennomstreking";
+"styleUnderlined" = "Understreket";
+
+"textAlignment" = "Tekstjustering";
+"textAlignmentLeft" = "Venstrejustert";
+"textAlignmentRight" = "Høyrejustert";
+"textAlignmentCentered" = "Sentrert";
+"textAlignmentJustified" = "Margin justert";

@@ -1,0 +1,61 @@
+/*
+ Localizable.strings
+ RichTextKit
+ 
+ Created by Daniel Saidi on 2022-12-14.
+ Copyright © 2022 Daniel Saidi. All rights reserved.
+ */
+
+"locale" = "sv";
+
+"done" = "Klar";
+
+"font" = "Typsnitt";
+"fontSize" = "Teckenstorlek";
+
+"color" = "Färg";
+"foregroundColor" = "Text";
+"backgroundColor" = "Bakgrund";
+
+"actionCopy" = "Kopiera";
+"actionDismissKeyboard" = "Stäng tangentbordet";
+"actionFontSizeIncrease" = "Öka teckenstorlek";
+"actionFontSizeDecrease" = "Minska teckenstorlek";
+"actionIndentIncrease" = "Öka indrag";
+"actionIndentDecrease" = "Minska indrag";
+"actionRedoLatestChange" = "Gör om";
+"actionUndoLatestChange" = "Ångra";
+
+"fileFormatRtk" = "Rich Text Kit (.rtk)";
+"fileFormatPdf" = "PDF (.pdf)";
+"fileFormatRtf" = "Formaterad Text (.rtf)";
+"fileFormatTxt" = "Ren Text (.txt)";
+
+"menuExport" = "Exportera";
+"menuExportAs" = "Exportera som...";
+"menuFont" = "Typsnitt";
+"menuFontSizeIncrease" = "Större";
+"menuFontSizeDecrease" = "Mindre";
+"menuFormat" = "Format";
+"menuIndent" = "Indrag";
+"menuIndentIncrease" = "Öka";
+"menuIndentDecrease" = "Minska";
+"menuPrint" = "Skriv ut...";
+"menuSave" = "Spara";
+"menuSaveAs" = "Spara som...";
+"menuShare" = "Dela";
+"menuShareAs" = "Dela som...";
+"menuSuperscriptIncrease" = "Superscript";
+"menuSuperscriptDecrease" = "Subscript";
+"menuText" = "Text";
+
+"styleBold" = "Fet";
+"styleItalic" = "Kursiv";
+"styleStrikethrough" = "Genomstrykning";
+"styleUnderlined" = "Understrykning";
+
+"textAlignment" = "Textjustering";
+"textAlignmentLeft" = "Vänsterjustera";
+"textAlignmentRight" = "Högerjustera";
+"textAlignmentCentered" = "Centrera";
+"textAlignmentJustified" = "Marginaljustera";
