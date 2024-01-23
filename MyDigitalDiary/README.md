@@ -23,7 +23,7 @@ This SwiftUI journaling app is designed to offer users a secure and personalized
 1. Clone the repository to your local machine:
     ```sh
     git clone https://github.com/arjunrao122/Swift-Portfolio.git
-    cd Swift-Portfolio/MyDigitalDiary
+    cd Swift-Portfolio/MyDigitalDiary/MyDigitalDiary
     ```
 2. Open the `.xcodeproj` file in Xcode.
 
